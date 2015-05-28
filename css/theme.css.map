@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAO;EACL,SAAS,EAAE,IAAI;EACf,QAAE;IAAE,KAAK,EAAE,KAAK",
+"sources": ["../../templates/assets/theme.scss"],
+"names": [],
+"file": "theme.css"
+}
